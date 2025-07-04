@@ -1,1 +1,2 @@
-"info about this project" 
+# django-blog
+"info about this project"
